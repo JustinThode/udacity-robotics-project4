@@ -1,3 +1,3 @@
-# udacity-robotics-project2
+# udacity-robotics-project3
 Implements a skid steer four wheel drive robot.
-The robot follows a white ball by processing camera images and driving towards the detected centroid.
+The robot uses AMCL to track its position in the building.
