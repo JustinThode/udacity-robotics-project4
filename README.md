@@ -1,3 +1,3 @@
-# udacity-robotics-project3
+# udacity-robotics-project4
 Implements a skid steer four wheel drive robot.
-The robot uses AMCL to track its position in the building.
+Uses RTAB-Map to map a gazebo world.
